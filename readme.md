@@ -61,7 +61,7 @@ El proposito de esta solucion de software consiste en determinar las categorias 
   1. Desarrollo de una aplicacion de streaming
   2. Desarrollo de una IA de reconocimiento facial para la aplicacion de streaming
 </details>
- 
+  
 <details>
  <summary>Experiencias</summary>
  <p>

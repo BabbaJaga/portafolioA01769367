@@ -50,16 +50,16 @@ El proposito de esta solucion de software consiste en determinar las categorias 
 
 <details>
  <summary>Aprendizajes</summary>
-  1.Cadenas de Markov
-  2.Programacion basada en un automata
-  3.Funcionalidad correcta de expresionees regulares
-  4.Segmentacion de un problema en subproblemas
+  <p> 1. Cadenas de Markov<p/>
+  <p> 2. Programacion basada en un automata </p>
+  <p> 3. Funcionalidad correcta de expresionees regulares </p>
+  <p> 4. Segmentacion de un problema en subproblemas </p>
 </details>
 
 <details>
  <summary>Logros</summary>
-  1. Desarrollo de una aplicacion de streaming
-  2. Desarrollo de una IA de reconocimiento facial para la aplicacion de streaming
+ <p> 1. Desarrollo de una aplicacion de streaming </p>
+ <p> 2. Desarrollo de una IA de reconocimiento facial para la aplicacion de streaming </p>
 </details>
   
 <details>
@@ -74,12 +74,11 @@ El proposito de esta solucion de software consiste en determinar las categorias 
  <summary>Competencias identificadas</summary>
  <p>
   Como unico desarrollador de estas aplicaciones puedo listar los siguientes conocimientos como importantes para el desarrollo
-  de las mismas:
-  1. Implementacion de algritmos
-  2. Optimizacion de algoritmos
-  3. Generacion de modelos computacionales
-  4. Implementacion de modelos computacionales.
- </p>
+  de las mismas:</p>
+  <p> 1. Implementacion de algritmos </p>
+  <p> 2. Optimizacion de algoritmos </p>
+  <p> 3. Generacion de modelos computacionales </p>
+  <p> 4. Implementacion de modelos computacionales </p>
 </details>
 
 ----------------
@@ -102,42 +101,34 @@ con el servidor de descarga de datos.
 
 <details>
  <summary>Aprendizajes</summary>
- <p>
-  1. Migracion de csv con millones de registros a un DBMS relacional
-  2. Implementacion de arquitectura MVC
-  3. Cifrado de datos con salt como capa de seguridad
-  4. Transmision de datos por medio de HTTP headers
- </p>
+  <p> 1. Migracion de csv con millones de registros a un DBMS relacional </p>
+  <p> 2. Implementacion de arquitectura MVC </p>
+  <p> 3. Cifrado de datos con salt como capa de seguridad </p>
+  <p> 4. Transmision de datos por medio de HTTP headers </p>
 </details>
 
 <details>
  <summary>Logros</summary>
- <p>
-  1. Implementacion de estructuras de datos para el procesamiento de informacion de un usuario o administrador
-  2. SQL Queries sinteticos para reducir la carga cliente-servidor en la transferencia de datos
-  3. Plot de graficas en tiempo real con datos diarios reales
- </p>
+  <p> 1. Implementacion de estructuras de datos para el procesamiento de informacion de un usuario o administrador </p>
+  <p> 2. SQL Queries sinteticos para reducir la carga cliente-servidor en la transferencia de datos </p>
+  <p> 3. Plot de graficas en tiempo real con datos diarios reales </p>
 </details>
  
 <details>
  <summary>Experiencias</summary>
- <p>
-  1. Tener un control sistematizado sobre las medidas de salubridad de una empresa para gestionar el personal es importante
-  para prevenir posibles perdidas economicas por falta de control y administracion.
-  2. Trabajo en equipo sobre un repositorio de control de versiones
-  3. Desarrollo full stack
- </p>
+  <p> 1. Tener un control sistematizado sobre las medidas de salubridad de una empresa para gestionar el personal es importante </p>
+  para prevenir posibles perdidas economicas por falta de control y administracion. </p>
+  <p> 2. Trabajo en equipo sobre un repositorio de control de versiones </p>
+  <p> 3. Desarrollo full stack </p>
 </details>
 
 <details>
  <summary>Competencias identificadas</summary>
- <p>
-  1. Desarrollo agil
-  2. Requerimientos
-  3. Planeacion
-  4. Diseño
-  5. Desarrollo
-  6. Liberacion
-  7. Mantenimiento
- </p>
+  <p> 1. Desarrollo agil </p>
+  <p> 2. Requerimientos </p>
+  <p> 3. Planeacion </p>
+  <p> 4. Diseño </p>
+  <p> 5. Desarrollo </p>
+  <p> 6. Liberacion </p>
+  <p> 7. Mantenimiento </p>
 </details>

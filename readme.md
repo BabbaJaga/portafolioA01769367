@@ -6,26 +6,24 @@
 
 ### **Descripcion del proyecto**
 
-Inventario de productos, consiste en el desarrollo de un controlador de datos funcional, basado en los requerimientos de una empresa para gestionar sus productos e inventario 
-manteniendo un registro de los movimientos de cada producto en el almacen.
+Un inventario es un documento o base de datos que enlista la mercancía de un negocio para conocer las ventas, compras e identificar fugas de dinero por robo, pérdida, caducidad o daño de productos. Sin embargo, un inventario tiene más funciones.
 
-El proyecto requiere un formato especifico, el cual debe ser desarrollado con precaucion ya que al no coincidir los datos de algun campo se presentaran fallas en el procesamiento de la informacion de entrada,
-causando errores de salida y finalmente una mala gestion de datos.
+En general, además de ofrecer el valor de los recursos de una empresa, esta información es de suma importancia para tomar decisiones o crear estrategias. Por otro lado, mientras más bienes, productos o recursos se posean, es más difícil llevar un control de ellos, por lo que su gestión se complica.
+
+Consiste en el desarrollo de un controlador de datos funcional, basado en los requerimientos de una empresa para gestionar sus productos e inventario 
+manteniendo un registro de los movimientos de cada producto en el almacen.
 
 <details>
  <summary>Aprendizajes</summary>
- <p>   
-   
+ <p>
    **El siguiente esquema representa las estructuras de datos aprendidas:** 
-   
-<img src="https://datastructures.in/wp-content/uploads/2021/11/Types-of-DS-1024x464.png">
-  
+   <img src="https://datastructures.in/wp-content/uploads/2021/11/Types-of-DS-1024x464.png">
  </p>
 </details>
 
 <details>
  <summary>Logros</summary>
- <p>El logro mas satisfactorio alcanzado en la finalizacion de la materia, es la comprehension detallada de la informacion, topicos y temas vistos.</p>
+ <p>Implementaciond e estructuras de datos para la busqueda y display de informacion ingresada y requerida por el usuario.</p>
 </details>
 
 <details>
@@ -47,6 +45,10 @@ causando errores de salida y finalmente una mala gestion de datos.
 
 El proposito de esta solucion de software consiste en determinar las categorias lexicas de diversos lenguajes de programacion
 (C++, python, php) para definir una notacion basada en cualquier sintaxis para representar expresiones regulares.
+
+QUE ES UN RESALTADOR DE SINTAXIS?
+
+El resaltado de sintaxis es una función que muestra el código fuente, en diferentes colores y fuentes de acuerdo con la categoría de términos. El resaltado de sintaxis es una estrategia para mejorar la legibilidad y el contexto del texto; Especialmente para código que abarca varias páginas. El lector puede ignorar fácilmente grandes secciones de comentarios o códigos, dependiendo de lo que estén buscando.
 
 <details>
  <summary>Aprendizajes</summary>
@@ -132,3 +134,19 @@ con el servidor de descarga de datos.
   <p> 6. Liberacion </p>
   <p> 7. Mantenimiento </p>
 </details>
+
+----------------
+## Proyecto 4 -> Aplicacion web "Control de emisiones de carbono"
+----------------
+
+### **Descripcion del proyecto**
+
+La huella de carbono representa el volumen total de gases de efecto invernadero (GEI) que producen las actividades económicas y cotidianas del ser humano. Conocer el dato expresado en toneladas de CO2 emitidas es importante para tomar medidas y poner en marcha las iniciativas necesarias para reducirla al máximo, empezando por cada uno de nosotros en nuestro día a día.
+
+<img src="https://www.iberdrola.com/documents/20125/40513/huella_carbono_746x419.jpg/e5b4289b-f624-2390-1e36-142962cbb65c?t=1627448544624">
+
+QUÉ ES LA HUELLA DE CARBONO?
+
+El rastro de gases de efecto invernadero (GEI) que dejan las actividades humanas se conoce como huella de carbono. Este indicador ambiental mide tanto las emisiones directas como indirectas de compuestos como el metano (CH4), el óxido de nitrógeno (N2O), los hidrofluorocarburos (HFCs), los perfluororcarburos (PFCs), el hexafluoruro de azufre (SF6) y, sobre todo, del más abundante y que más ha contribuido al calentamiento global desde 1990: el dióxido de carbono (CO2).
+
+

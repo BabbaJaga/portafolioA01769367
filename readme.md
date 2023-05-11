@@ -1,7 +1,7 @@
 # Portafolio profesional
 
 ----------------
-## Proyecto 1 -> Inventario de productos(Estructura de datos y algoritmos)
+## Proyecto 1 -> Inventario de productos
 ----------------
 
 ### **Descripcion del proyecto**
@@ -40,7 +40,7 @@ causando errores de salida y finalmente una mala gestion de datos.
 </details>
 
 ----------------
-## Proyecto 2 -> Resaltador de sintaxis(Implementacion de metodos computacionales)
+## Proyecto 2 -> Resaltador de sintaxis
 ----------------
 
 ### **Descripcion del proyecto**

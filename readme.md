@@ -9,7 +9,7 @@
 Consiste en el desarrollo de un controlador de datos funcional, basado en los requerimientos de una empresa para gestionar sus productos e inventario 
 manteniendo un registro de los movimientos de cada producto en el almacen.
 
-QUE ES UN INVENTARIO?
+**QUE ES UN INVENTARIO?**
 
 Un inventario es un documento o base de datos que enlista la mercancía de un negocio para conocer las ventas, compras e identificar fugas de dinero por robo, pérdida, caducidad o daño de productos. Sin embargo, un inventario tiene más funciones.
 

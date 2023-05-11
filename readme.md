@@ -16,7 +16,7 @@ Un inventario es un documento o base de datos que enlista la mercancía de un ne
 En general, además de ofrecer el valor de los recursos de una empresa, esta información es de suma importancia para tomar decisiones o crear estrategias. Por otro lado, mientras más bienes, productos o recursos se posean, es más difícil llevar un control de ellos, por lo que su gestión se complica.
 
 <details>
- <summary>Aprendizajes</summary>
+ <summary>Requisitos</summary>
  <p>
    **El siguiente esquema representa las estructuras de datos aprendidas:** 
    <img src="https://datastructures.in/wp-content/uploads/2021/11/Types-of-DS-1024x464.png">
@@ -53,7 +53,7 @@ QUE ES UN RESALTADOR DE SINTAXIS?
 El resaltado de sintaxis es una función que muestra el código fuente, en diferentes colores y fuentes de acuerdo con la categoría de términos. El resaltado de sintaxis es una estrategia para mejorar la legibilidad y el contexto del texto; Especialmente para código que abarca varias páginas. El lector puede ignorar fácilmente grandes secciones de comentarios o códigos, dependiendo de lo que estén buscando.
 
 <details>
- <summary>Aprendizajes</summary>
+ <summary>Requisitos</summary>
   <p> 1. Cadenas de Markov<p/>
   <p> 2. Programacion basada en un automata </p>
   <p> 3. Funcionalidad correcta de expresionees regulares </p>
@@ -104,7 +104,7 @@ Cuentan con un puerto de comunicacion TCP/IP. Se le asigna una direccion IP y se
 con el servidor de descarga de datos.
 
 <details>
- <summary>Aprendizajes</summary>
+ <summary>Requisitos</summary>
   <p> 1. Migracion de csv con millones de registros a un DBMS relacional </p>
   <p> 2. Implementacion de arquitectura MVC </p>
   <p> 3. Cifrado de datos con salt como capa de seguridad </p>

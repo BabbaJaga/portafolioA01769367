@@ -18,7 +18,6 @@ En general, además de ofrecer el valor de los recursos de una empresa, esta inf
 <details>
  <summary>Requisitos</summary>
  <p>
-   **El siguiente esquema representa las estructuras de datos aprendidas:** 
    <img src="https://datastructures.in/wp-content/uploads/2021/11/Types-of-DS-1024x464.png">
  </p>
 </details>

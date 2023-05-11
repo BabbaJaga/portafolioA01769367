@@ -50,10 +50,10 @@ El proposito de esta solucion de software consiste en determinar las categorias 
 
 <details>
  <summary>Aprendizajes</summary>
-  1. Cadenas de Markov
-  2. Programacion basada en un automata
-  3. Funcionalidad correcta de expresionees regulares
-  4. Segmentacion de un problema en subproblemas
+  1.Cadenas de Markov
+  2.Programacion basada en un automata
+  3.Funcionalidad correcta de expresionees regulares
+  4.Segmentacion de un problema en subproblemas
 </details>
 
 <details>
